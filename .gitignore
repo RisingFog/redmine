@@ -20,7 +20,6 @@
 !/plugins/redmine_webhook
 !/plugins/README
 /public/dispatch.*
-/public/themes/*
 !/public/themes/alternate
 !/public/themes/circle
 !/public/themes/classic
